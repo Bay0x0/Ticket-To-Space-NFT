@@ -1,0 +1,55 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"title": "TransferHelper",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "Contains helper methods for interacting with ERC20 tokens that do not consistently return true/false",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"blindMint721Contra/TransferHelper.sol": "TransferHelper"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"blindMint721Contra/IERC20.sol": {
+			"keccak256": "0xcafdbcd6af666f41bfb4bef5ec57bf7763f4cb8b535549df186de3f1d899cc84",
+			"license": "GPL-2.0-or-later",
+			"urls": [
+				"bzz-raw://b12805fe3c6837e4a3ba1969a11f63d4f3871329a5c08d27e772b1a337a93df6",
+				"dweb:/ipfs/QmXj5P4Wzj9sajtqYEx1dRu8SctzrkSDhNHptPhzhiAjSq"
+			]
+		},
+		"blindMint721Contra/TransferHelper.sol": {
+			"keccak256": "0xbb50d9a9034b84123cf8e115a8a2683a8301ce534e4d9d96c98a966880941437",
+			"license": "GPL-2.0-or-later",
+			"urls": [
+				"bzz-raw://56a0bdde078099b8d42a255d3c4cbc1850c163da3e42bdd20bd66c0e6077da33",
+				"dweb:/ipfs/QmeMcaustHdE9z6GxKojerFXDmGc4GkVyiQG9b8U13HR8Q"
+			]
+		}
+	},
+	"version": 1
+}
