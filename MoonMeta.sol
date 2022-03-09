@@ -1,8 +1,5 @@
 
 // SPDX-License-Identifier: MIT
-// https://www.youtube.com/watch?v=3vWw9Xt48bs
-// Contract based on https://docs.openzeppelin.com/contracts/3.x/erc721
-// https://github.com/niclin/nic_meta/blob/master/contracts/nic_meta_nft.sol
 pragma solidity ^0.8.0;
 // https://remix-ide.readthedocs.io/en/latest/import.html
 // npm i @openzeppelin/contracts     
